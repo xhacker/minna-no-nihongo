@@ -8,15 +8,15 @@
     <language>ja</language>
     <pubDate>Thu, 12 Apr 2018 22:04:00 +0800</pubDate>
 
-    <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/xhacker/minna-no-nihongo/master/cover.jpg"/>
 
     {% for id in items %}
     <item>
       <title>第{{ id }}课</title>
       <guid>ep-00{{ id }}</guid>
-      <enclosure url="http://static.xhacker.im/japanese/MP3_{{ id }}.mp3" type="audio/mpeg"/>
+      <enclosure url="https://github.com/xhacker/minna-no-nihongo/raw/master/MP3_{{ id }}.mp3" type="audio/mpeg"/>
       <pubDate>Thu, 12 Apr 2018 22:0{{ ((id | int) / 10) | int }}:0{{ (id | int) % 10 }} +0800</pubDate>
-      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+      <itunes:image href="https://raw.githubusercontent.com/xhacker/minna-no-nihongo/master/cover.jpg"/>
     </item>
     {% endfor %}
 
