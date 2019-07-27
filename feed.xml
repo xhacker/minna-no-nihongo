@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  <channel>
+
+    <title>大家的日语初级1</title>
+    <description>大家的日语初级1第二版</description>
+    <language>ja</language>
+    <pubDate>Thu, 12 Apr 2018 22:04:00 +0800</pubDate>
+
+    <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+
+    <item>
+      <title>第00课</title>
+      <guid>ep-0000</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_00.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第01课</title>
+      <guid>ep-0001</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_01.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第02课</title>
+      <guid>ep-0002</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_02.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第03课</title>
+      <guid>ep-0003</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_03.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第04课</title>
+      <guid>ep-0004</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_04.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第05课</title>
+      <guid>ep-0005</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_05.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第06课</title>
+      <guid>ep-0006</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_06.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第07课</title>
+      <guid>ep-0007</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_07.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第08课</title>
+      <guid>ep-0008</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_08.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第09课</title>
+      <guid>ep-0009</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_09.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:00:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第10课</title>
+      <guid>ep-0010</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_10.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第11课</title>
+      <guid>ep-0011</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_11.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第12课</title>
+      <guid>ep-0012</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_12.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第13课</title>
+      <guid>ep-0013</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_13.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第14课</title>
+      <guid>ep-0014</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_14.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第15课</title>
+      <guid>ep-0015</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_15.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第16课</title>
+      <guid>ep-0016</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_16.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第17课</title>
+      <guid>ep-0017</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_17.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第18课</title>
+      <guid>ep-0018</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_18.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第19课</title>
+      <guid>ep-0019</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_19.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:01:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第20课</title>
+      <guid>ep-0020</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_20.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第21课</title>
+      <guid>ep-0021</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_21.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第22课</title>
+      <guid>ep-0022</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_22.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第23课</title>
+      <guid>ep-0023</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_23.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第24课</title>
+      <guid>ep-0024</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_24.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第25课</title>
+      <guid>ep-0025</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_25.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第26课</title>
+      <guid>ep-0026</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_26.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第27课</title>
+      <guid>ep-0027</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_27.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第28课</title>
+      <guid>ep-0028</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_28.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第29课</title>
+      <guid>ep-0029</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_29.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:02:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第30课</title>
+      <guid>ep-0030</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_30.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第31课</title>
+      <guid>ep-0031</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_31.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第32课</title>
+      <guid>ep-0032</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_32.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第33课</title>
+      <guid>ep-0033</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_33.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第34课</title>
+      <guid>ep-0034</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_34.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第35课</title>
+      <guid>ep-0035</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_35.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第36课</title>
+      <guid>ep-0036</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_36.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第37课</title>
+      <guid>ep-0037</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_37.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第38课</title>
+      <guid>ep-0038</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_38.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第39课</title>
+      <guid>ep-0039</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_39.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:03:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第40课</title>
+      <guid>ep-0040</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_40.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第41课</title>
+      <guid>ep-0041</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_41.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第42课</title>
+      <guid>ep-0042</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_42.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第43课</title>
+      <guid>ep-0043</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_43.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第44课</title>
+      <guid>ep-0044</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_44.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第45课</title>
+      <guid>ep-0045</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_45.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第46课</title>
+      <guid>ep-0046</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_46.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第47课</title>
+      <guid>ep-0047</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_47.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第48课</title>
+      <guid>ep-0048</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_48.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第49课</title>
+      <guid>ep-0049</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_49.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:04:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第50课</title>
+      <guid>ep-0050</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_50.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第51课</title>
+      <guid>ep-0051</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_51.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第52课</title>
+      <guid>ep-0052</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_52.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第53课</title>
+      <guid>ep-0053</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_53.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第54课</title>
+      <guid>ep-0054</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_54.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第55课</title>
+      <guid>ep-0055</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_55.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第56课</title>
+      <guid>ep-0056</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_56.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第57课</title>
+      <guid>ep-0057</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_57.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第58课</title>
+      <guid>ep-0058</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_58.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第59课</title>
+      <guid>ep-0059</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_59.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:05:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第60课</title>
+      <guid>ep-0060</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_60.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第61课</title>
+      <guid>ep-0061</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_61.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第62课</title>
+      <guid>ep-0062</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_62.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第63课</title>
+      <guid>ep-0063</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_63.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第64课</title>
+      <guid>ep-0064</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_64.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第65课</title>
+      <guid>ep-0065</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_65.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第66课</title>
+      <guid>ep-0066</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_66.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第67课</title>
+      <guid>ep-0067</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_67.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第68课</title>
+      <guid>ep-0068</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_68.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第69课</title>
+      <guid>ep-0069</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_69.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:06:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第70课</title>
+      <guid>ep-0070</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_70.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第71课</title>
+      <guid>ep-0071</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_71.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第72课</title>
+      <guid>ep-0072</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_72.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第73课</title>
+      <guid>ep-0073</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_73.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第74课</title>
+      <guid>ep-0074</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_74.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第75课</title>
+      <guid>ep-0075</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_75.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第76课</title>
+      <guid>ep-0076</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_76.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第77课</title>
+      <guid>ep-0077</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_77.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第78课</title>
+      <guid>ep-0078</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_78.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:08 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第79课</title>
+      <guid>ep-0079</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_79.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:07:09 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第80课</title>
+      <guid>ep-0080</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_80.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:00 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第81课</title>
+      <guid>ep-0081</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_81.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:01 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第82课</title>
+      <guid>ep-0082</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_82.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:02 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第83课</title>
+      <guid>ep-0083</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_83.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:03 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第84课</title>
+      <guid>ep-0084</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_84.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:04 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第85课</title>
+      <guid>ep-0085</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_85.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:05 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第86课</title>
+      <guid>ep-0086</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_86.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:06 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+    <item>
+      <title>第87课</title>
+      <guid>ep-0087</guid>
+      <enclosure url="http://static.xhacker.im/japanese/MP3_87.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Apr 2018 22:08:07 +0800</pubDate>
+      <itunes:image href="http://static.xhacker.im/japanese/cover.jpg"/>
+    </item>
+
+  </channel>
+
+</rss>
